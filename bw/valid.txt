@@ -1,0 +1,11 @@
+science_vessel	requires	science_facility
+science_vessel	movement	air
+marine	is_type	biologic
+marine	upgrades_from	engineering_bay
+medic	upgrades_from	engineering_bay
+ghost	upgrades_from	covert_ops
+ghost	movement	ground
+dropship	upgrades_from	armory
+battlecruiser	upgrades_from	physics_lab
+medic	is_type	biologic
+goliath	movement	ground

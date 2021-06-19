@@ -1,0 +1,5 @@
+requires	0
+builds_from	1
+upgrades_from	2
+is_type	3
+movement	4

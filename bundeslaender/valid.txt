@@ -1,0 +1,10 @@
+bayern	locatedIn	south
+sachsen	locatedIn	center
+nordrhein_westfalen	locatedIn	north
+brandenburg	locatedIn	north
+bremen	locatedIn	north
+baden_wuerttemberg	locatedIn	west
+sachsen	locatedIn	east
+berlin	locatedIn	east
+mecklenburg_vorpommen	locatedIn	east
+bremen	locatedIn	west

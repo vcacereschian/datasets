@@ -1,0 +1,11 @@
+marine	movement	ground
+firebat	builds_from	barracks
+firebat	movement	ground
+vulture	builds_from	factory
+vulture	upgrades_from	machine_shop
+wraith	movement	air
+battlecruiser	upgrades_from	armory
+science_vessel	is_type	mechanic
+science_vessel	builds_from	starport
+wraith	is_type	mechanic
+battlecruiser	movement	air

@@ -1,0 +1,10 @@
+baden_wuerttemberg	locatedIn	south
+saarland	locatedIn	center
+rheinland_pfalz	locatedIn	center
+sachsen_anhalt	locatedIn	north
+berlin	locatedIn	north
+mecklenburg_vorpommen	locatedIn	north
+bayern	locatedIn	east
+hessen	locatedIn	west
+thueringen	locatedIn	east
+nordrhein_westfalen	locatedIn	west
